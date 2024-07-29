@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/ws": "^8.5.11",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.11.1",
+    "graphql": "^16.9.0",
+    "graphql-request": "^6.1.0",
+    "graphql-subscriptions-client": "^0.16.4",
+    "graphql-ws": "^5.16.0",
+    "ws": "^8.18.0"
+  }
+}
